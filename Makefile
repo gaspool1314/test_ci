@@ -1,2 +1,2 @@
 all:
-	go build -o echo
+	go build -o bin/echo

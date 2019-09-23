@@ -9,4 +9,4 @@ install:
   - echo "install"
  
 script:
-  - echo "script"
+  - bash ./build.sh build
